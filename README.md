@@ -34,3 +34,7 @@ and a default account with the username **admin** and password
 
 You can access a web interface at https://<ip>:8067/ in order to
 change the password or create a new account.
+
+To view the generated SSL fingerprint (in order to verify that
+the mobile app is connecting to the correct server), view the
+container's logs: `docker logs tapchat`.
