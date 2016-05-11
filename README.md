@@ -1,6 +1,6 @@
 # TapChat Dockerfile
 
-This is a dockerised version of TapChat
+This is a dockerised version of [TapChat](http://tapchatapp.com/).
 
 ## Usage
 
