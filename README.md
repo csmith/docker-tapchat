@@ -32,7 +32,7 @@ TapChat will be configured to listen on the default port of 8067,
 and a default account with the username **admin** and password
 **admin** will be created.
 
-You can access a web interface at https://<ip>:8067/ in order to
+You can access a web interface at `https://<ip>:8067/` in order to
 change the password or create a new account.
 
 To view the generated SSL fingerprint (in order to verify that
