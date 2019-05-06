@@ -1,5 +1,11 @@
 # TapChat Dockerfile
 
+This image is deprecated. It no longer builds, and TapChat has
+not been updated in 4+ years. [IrcCloud](https://irccloud.com/)
+is a good, modern alternative (albeit not self-hosted).
+
+----
+
 This is a dockerised version of [TapChat](http://tapchatapp.com/).
 
 ## Usage
